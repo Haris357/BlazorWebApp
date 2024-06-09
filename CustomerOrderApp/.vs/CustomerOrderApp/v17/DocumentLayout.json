@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Haris\\source\\repos\\CustomerOrderApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69E0AB15-7592-4648-9086-9FF855568009}|CustomerOrderApp\\Client\\CustomerOrderApp.Client.csproj|c:\\users\\haris\\source\\repos\\customerorderapp\\customerorderapp\\client\\pages\\productlist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69E0AB15-7592-4648-9086-9FF855568009}|CustomerOrderApp\\Client\\CustomerOrderApp.Client.csproj|solutionrelative:customerorderapp\\client\\pages\\productlist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D31210-8AEF-4F86-A0F4-3BFD55BEB9E9}|CustomerOrderApp\\Server\\CustomerOrderApp.Server.csproj|c:\\users\\haris\\source\\repos\\customerorderapp\\customerorderapp\\server\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54D31210-8AEF-4F86-A0F4-3BFD55BEB9E9}|CustomerOrderApp\\Server\\CustomerOrderApp.Server.csproj|solutionrelative:customerorderapp\\server\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12BF83A3-17AF-4244-AEAC-267AD55629D7}|CustomerOrderApp\\Shared\\CustomerOrderApp.Shared.csproj|c:\\users\\haris\\source\\repos\\customerorderapp\\customerorderapp\\shared\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12BF83A3-17AF-4244-AEAC-267AD55629D7}|CustomerOrderApp\\Shared\\CustomerOrderApp.Shared.csproj|solutionrelative:customerorderapp\\shared\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69E0AB15-7592-4648-9086-9FF855568009}|CustomerOrderApp\\Client\\CustomerOrderApp.Client.csproj|c:\\users\\haris\\source\\repos\\customerorderapp\\customerorderapp\\client\\pages\\customerlist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69E0AB15-7592-4648-9086-9FF855568009}|CustomerOrderApp\\Client\\CustomerOrderApp.Client.csproj|solutionrelative:customerorderapp\\client\\pages\\customerlist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12BF83A3-17AF-4244-AEAC-267AD55629D7}|CustomerOrderApp\\Shared\\CustomerOrderApp.Shared.csproj|c:\\users\\haris\\source\\repos\\customerorderapp\\customerorderapp\\shared\\models\\orderproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12BF83A3-17AF-4244-AEAC-267AD55629D7}|CustomerOrderApp\\Shared\\CustomerOrderApp.Shared.csproj|solutionrelative:customerorderapp\\shared\\models\\orderproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D31210-8AEF-4F86-A0F4-3BFD55BEB9E9}|CustomerOrderApp\\Server\\CustomerOrderApp.Server.csproj|c:\\users\\haris\\source\\repos\\customerorderapp\\customerorderapp\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54D31210-8AEF-4F86-A0F4-3BFD55BEB9E9}|CustomerOrderApp\\Server\\CustomerOrderApp.Server.csproj|solutionrelative:customerorderapp\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12BF83A3-17AF-4244-AEAC-267AD55629D7}|CustomerOrderApp\\Shared\\CustomerOrderApp.Shared.csproj|c:\\users\\haris\\source\\repos\\customerorderapp\\customerorderapp\\shared\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12BF83A3-17AF-4244-AEAC-267AD55629D7}|CustomerOrderApp\\Shared\\CustomerOrderApp.Shared.csproj|solutionrelative:customerorderapp\\shared\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12BF83A3-17AF-4244-AEAC-267AD55629D7}|CustomerOrderApp\\Shared\\CustomerOrderApp.Shared.csproj|c:\\users\\haris\\source\\repos\\customerorderapp\\customerorderapp\\shared\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12BF83A3-17AF-4244-AEAC-267AD55629D7}|CustomerOrderApp\\Shared\\CustomerOrderApp.Shared.csproj|solutionrelative:customerorderapp\\shared\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D31210-8AEF-4F86-A0F4-3BFD55BEB9E9}|CustomerOrderApp\\Server\\CustomerOrderApp.Server.csproj|c:\\users\\haris\\source\\repos\\customerorderapp\\customerorderapp\\server\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54D31210-8AEF-4F86-A0F4-3BFD55BEB9E9}|CustomerOrderApp\\Server\\CustomerOrderApp.Server.csproj|solutionrelative:customerorderapp\\server\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D31210-8AEF-4F86-A0F4-3BFD55BEB9E9}|CustomerOrderApp\\Server\\CustomerOrderApp.Server.csproj|c:\\users\\haris\\source\\repos\\customerorderapp\\customerorderapp\\server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{54D31210-8AEF-4F86-A0F4-3BFD55BEB9E9}|CustomerOrderApp\\Server\\CustomerOrderApp.Server.csproj|solutionrelative:customerorderapp\\server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69E0AB15-7592-4648-9086-9FF855568009}|CustomerOrderApp\\Client\\CustomerOrderApp.Client.csproj|c:\\users\\haris\\source\\repos\\customerorderapp\\customerorderapp\\client\\pages\\editproduct.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69E0AB15-7592-4648-9086-9FF855568009}|CustomerOrderApp\\Client\\CustomerOrderApp.Client.csproj|solutionrelative:customerorderapp\\client\\pages\\editproduct.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Haris\\source\\repos\\CustomerOrderApp\\CustomerOrderApp\\Shared\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "CustomerOrderApp\\Shared\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Haris\\source\\repos\\CustomerOrderApp\\CustomerOrderApp\\Shared\\Models\\Product.cs",
+              "RelativeToolTip": "CustomerOrderApp\\Shared\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T08:45:04.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Haris\\source\\repos\\CustomerOrderApp\\CustomerOrderApp\\Shared\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "CustomerOrderApp\\Shared\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\Haris\\source\\repos\\CustomerOrderApp\\CustomerOrderApp\\Shared\\Models\\Order.cs",
+              "RelativeToolTip": "CustomerOrderApp\\Shared\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T08:42:00.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderProduct.cs",
+              "DocumentMoniker": "C:\\Users\\Haris\\source\\repos\\CustomerOrderApp\\CustomerOrderApp\\Shared\\Models\\OrderProduct.cs",
+              "RelativeDocumentMoniker": "CustomerOrderApp\\Shared\\Models\\OrderProduct.cs",
+              "ToolTip": "C:\\Users\\Haris\\source\\repos\\CustomerOrderApp\\CustomerOrderApp\\Shared\\Models\\OrderProduct.cs",
+              "RelativeToolTip": "CustomerOrderApp\\Shared\\Models\\OrderProduct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T08:41:59.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Haris\\source\\repos\\CustomerOrderApp\\CustomerOrderApp\\Server\\Program.cs",
+              "RelativeDocumentMoniker": "CustomerOrderApp\\Server\\Program.cs",
+              "ToolTip": "C:\\Users\\Haris\\source\\repos\\CustomerOrderApp\\CustomerOrderApp\\Server\\Program.cs",
+              "RelativeToolTip": "CustomerOrderApp\\Server\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T08:24:06.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Haris\\source\\repos\\CustomerOrderApp\\CustomerOrderApp\\Shared\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "CustomerOrderApp\\Shared\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\Haris\\source\\repos\\CustomerOrderApp\\CustomerOrderApp\\Shared\\Models\\Customer.cs",
+              "RelativeToolTip": "CustomerOrderApp\\Shared\\Models\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T22:33:55.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerList.razor",
+              "DocumentMoniker": "C:\\Users\\Haris\\source\\repos\\CustomerOrderApp\\CustomerOrderApp\\Client\\Pages\\CustomerList.razor",
+              "RelativeDocumentMoniker": "CustomerOrderApp\\Client\\Pages\\CustomerList.razor",
+              "ToolTip": "C:\\Users\\Haris\\source\\repos\\CustomerOrderApp\\CustomerOrderApp\\Client\\Pages\\CustomerList.razor",
+              "RelativeToolTip": "CustomerOrderApp\\Client\\Pages\\CustomerList.razor",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAwAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-08T22:30:57.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\Haris\\source\\repos\\CustomerOrderApp\\CustomerOrderApp\\Server\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "CustomerOrderApp\\Server\\Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Users\\Haris\\source\\repos\\CustomerOrderApp\\CustomerOrderApp\\Server\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "CustomerOrderApp\\Server\\Controllers\\CustomersController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAwC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T22:05:12.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductList.razor",
+              "DocumentMoniker": "C:\\Users\\Haris\\source\\repos\\CustomerOrderApp\\CustomerOrderApp\\Client\\Pages\\ProductList.razor",
+              "RelativeDocumentMoniker": "CustomerOrderApp\\Client\\Pages\\ProductList.razor",
+              "ToolTip": "C:\\Users\\Haris\\source\\repos\\CustomerOrderApp\\CustomerOrderApp\\Client\\Pages\\ProductList.razor",
+              "RelativeToolTip": "CustomerOrderApp\\Client\\Pages\\ProductList.razor",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAAwFgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-08T22:07:51.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Haris\\source\\repos\\CustomerOrderApp\\CustomerOrderApp\\Server\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "CustomerOrderApp\\Server\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Haris\\source\\repos\\CustomerOrderApp\\CustomerOrderApp\\Server\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "CustomerOrderApp\\Server\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAAwGIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T22:08:01.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Haris\\source\\repos\\CustomerOrderApp\\CustomerOrderApp\\Server\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CustomerOrderApp\\Server\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Haris\\source\\repos\\CustomerOrderApp\\CustomerOrderApp\\Server\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CustomerOrderApp\\Server\\Properties\\launchSettings.json",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAwCsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-09T08:29:27.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EditProduct.razor",
+              "DocumentMoniker": "C:\\Users\\Haris\\source\\repos\\CustomerOrderApp\\CustomerOrderApp\\Client\\Pages\\EditProduct.razor",
+              "RelativeDocumentMoniker": "CustomerOrderApp\\Client\\Pages\\EditProduct.razor",
+              "ToolTip": "C:\\Users\\Haris\\source\\repos\\CustomerOrderApp\\CustomerOrderApp\\Client\\Pages\\EditProduct.razor",
+              "RelativeToolTip": "CustomerOrderApp\\Client\\Pages\\EditProduct.razor",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAwDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-08T22:18:34.913Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

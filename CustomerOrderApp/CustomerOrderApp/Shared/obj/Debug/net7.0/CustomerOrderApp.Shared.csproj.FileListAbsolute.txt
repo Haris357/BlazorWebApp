@@ -1,0 +1,11 @@
+C:\Users\Haris\source\repos\CustomerOrderApp\CustomerOrderApp\Shared\bin\Debug\net7.0\CustomerOrderApp.Shared.deps.json
+C:\Users\Haris\source\repos\CustomerOrderApp\CustomerOrderApp\Shared\bin\Debug\net7.0\CustomerOrderApp.Shared.dll
+C:\Users\Haris\source\repos\CustomerOrderApp\CustomerOrderApp\Shared\bin\Debug\net7.0\CustomerOrderApp.Shared.pdb
+C:\Users\Haris\source\repos\CustomerOrderApp\CustomerOrderApp\Shared\obj\Debug\net7.0\CustomerOrderApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Haris\source\repos\CustomerOrderApp\CustomerOrderApp\Shared\obj\Debug\net7.0\CustomerOrderApp.Shared.AssemblyInfoInputs.cache
+C:\Users\Haris\source\repos\CustomerOrderApp\CustomerOrderApp\Shared\obj\Debug\net7.0\CustomerOrderApp.Shared.AssemblyInfo.cs
+C:\Users\Haris\source\repos\CustomerOrderApp\CustomerOrderApp\Shared\obj\Debug\net7.0\CustomerOrderApp.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Haris\source\repos\CustomerOrderApp\CustomerOrderApp\Shared\obj\Debug\net7.0\CustomerOrderApp.Shared.dll
+C:\Users\Haris\source\repos\CustomerOrderApp\CustomerOrderApp\Shared\obj\Debug\net7.0\refint\CustomerOrderApp.Shared.dll
+C:\Users\Haris\source\repos\CustomerOrderApp\CustomerOrderApp\Shared\obj\Debug\net7.0\CustomerOrderApp.Shared.pdb
+C:\Users\Haris\source\repos\CustomerOrderApp\CustomerOrderApp\Shared\obj\Debug\net7.0\ref\CustomerOrderApp.Shared.dll

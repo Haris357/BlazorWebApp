@@ -1,0 +1,48 @@
+﻿@page "/products/edit/{ProductId}"
+@using CustomerOrderApp.Shared.Models
+@inject HttpClient Http
+@inject NavigationManager Navigation
+
+<h3>Edit Product</h3>
+
+@if (product != null)
+{
+    <form @onsubmit="HandleSubmit">
+        <div class="mb-3">
+            <label for="productName" class="form-label">Name:</label>
+            <input type="text" id="productName" class="form-control" @bind="product.Name" />
+        </div>
+        <div class="mb-3">
+            <label for="productPrice" class="form-label">Price:</label>
+            <input type="number" id="productPrice" class="form-control" @bind="product.Price" />
+        </div>
+        <button type="submit" class="btn btn-primary">Save</button>
+    </form>
+}
+else
+{
+    <p>Loading...</p>
+}
+
+@code {
+    [Parameter]
+    public int ProductId { get; set; }
+
+    private Product product;
+
+    protected override async Task OnInitializedAsync()
+    {
+        await LoadProduct();
+    }
+
+    private async Task LoadProduct()
+    {
+        product = await Http.GetFromJsonAsync<Product>($"api/products/{ProductId}");
+    }
+
+    private async Task HandleSubmit()
+    {
+        await Http.PutAsJsonAsync($"api/products/{ProductId}", product);
+        Navigation.NavigateTo("/products");
+    }
+}
